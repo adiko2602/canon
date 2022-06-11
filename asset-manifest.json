@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/canon/static/css/main.0940cc84.css",
+    "main.js": "/canon/static/js/main.8f0ee447.js",
+    "index.html": "/canon/index.html",
+    "main.0940cc84.css.map": "/canon/static/css/main.0940cc84.css.map",
+    "main.8f0ee447.js.map": "/canon/static/js/main.8f0ee447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0940cc84.css",
+    "static/js/main.8f0ee447.js"
+  ]
+}
